@@ -5,3 +5,7 @@ Welecome to Telusko Kitchen
 Kheer
 Pasta
 Chicken
+
+
+dinner
+lunch
